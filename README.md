@@ -466,7 +466,7 @@ To implement Priority Preemptive Scheduling
 
 13. Display the scheduling results, including the Gantt Chart, process ID, and execution time for each process.
 
-PROGRAM:
+### PROGRAM:
 ~~~
 #include <stdio.h>
 
